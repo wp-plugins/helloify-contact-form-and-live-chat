@@ -45,7 +45,7 @@ The plugin loads asynchronously so it won't reduce your site’s initial load ti
 
 = Where do I login to Helloify? = 
 
-Visit any page of your site, and click the pencil icon on the Helloify button. You can complete the full registration there and then you can use http://dashboard.helloify.com to chat with website visitors or use any of the native apps at http://helloify.com/apps. 
+Visit any page of your site, and click the pencil icon on the Helloify button. You can complete the full registration there and then you can use https://dashboard.helloify.com to chat with website visitors or use any of the native apps at http://helloify.com/apps. 
 
 == Screenshots ==
 
