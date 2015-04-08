@@ -7,7 +7,9 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-The Helloify WordPress Contact Form and Live Chat plugin allows you to add the Helloify messaging and live chat button to your site. Simply install the plugin, enter your email and you have a simple pop up contact form. Register for Helloify to access more features like real time messaging (free for up to 1 operator). 
+The Helloify WordPress Contact Form and Live Chat plugin allows you to add the Helloify messaging and live chat button to your site.
+
+Simply install the plugin, enter your email and you have a simple pop up contact form. Register for Helloify to access more features like real time messaging (free for up to 1 operator). 
 
 == Description ==
 
