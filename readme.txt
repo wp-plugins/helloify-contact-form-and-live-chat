@@ -50,7 +50,8 @@ Visit any page of your site, and click the pencil icon on the Helloify button. Y
 == Screenshots ==
 
 1.  This screen shot shows how Helloify looks at the front of your site
-2.  This is a screenshot of the main Helloify app
+2.  This is the contact form that visitors see when you're unavailable to chat
+3.  This is a screenshot of the main Helloify app
 
 == Changelog ==
 
