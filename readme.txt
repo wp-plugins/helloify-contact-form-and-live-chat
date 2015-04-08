@@ -13,9 +13,9 @@ Simply install the plugin, enter your email and you have a simple pop up contact
 
 == Description ==
 
-The Helloify WordPress Contact Form and Live Chat plugin allows you to add the Helloify messaging button to your WordPress site. Simply install the plugin, enter your email and you have a simple, high converting pop up contact form.
+The Helloify WordPress Contact Form and Live Chat plugin allows you to add the Helloify messaging button to your WordPress site.
 
-Register for Helloify to access more features like real time messaging (free for up to 1 operator). 
+Simply install the plugin, enter your email and you have a simple, high converting pop up contact form. Register for Helloify to access more features like real time messaging (free for up to 1 operator). 
 
 
 = Features =
