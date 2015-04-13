@@ -39,7 +39,7 @@ function admin_menu_helloify() {
 }
 
 function options_page_helloify() {
-	include(WP_PLUGIN_DIR . '/helloify/options.php');  
+	include(WP_PLUGIN_DIR . '/helloify-contact-form-and-live-chat/options.php');  
 }
 
 function first_install_message() {
