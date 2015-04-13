@@ -2,7 +2,7 @@
 /*
 Plugin Name: Helloify Contact Form and Live Chat
 Description: Adds the Helloify code to your WordPress website.
-Version: 1.0.0
+Version: 1.0.1
 Author: Helloify
 Author URI: http://helloify.com/
 */
